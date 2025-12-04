@@ -1,0 +1,20 @@
+Problem Statement
+Nonprofit organizations and philanthropic funders face a critical challenge: How do we identify high-impact nonprofits worthy of funding while flagging potential risks?
+With thousands of nonprofits and limited grant budgets, funders need:
+
+Data-driven insights from historical nonprofit performance
+Predictive models to estimate impact scores before funding
+Interactive tools to explore and make decisions
+
+Your Mission
+Build an end-to-end data analytics and ML system that:
+
+Analyzes 15,000+ nonprofits and 2,800+ grants using SQL
+Predicts nonprofit impact scores using machine learning
+Presents insights through an interactive Streamlit dashboard
+
+Business Value
+
+Helps funders allocate $1B+ in grants more effectively
+Identifies high-risk organizations - anomalies 
+Saves 100+ hours of manual nonprofit evaluation per funding cycle
