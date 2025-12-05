@@ -7,8 +7,6 @@ That curiosity became the foundation of this project. By analyzing nonprofit and
 
 At its core, the project aims to bridge field experience with data analytics to support nonprofits in securing the resources they need to continue their work.
 
-![NGO Impact Dashboard](<img width="1500" height="1013" alt="NPO" src="https://github.com/user-attachments/assets/83841170-aa2d-4b15-899a-2179c8f7f5eb" />
-)
 
 ## Overview
 This project performs data‑driven analysis of nonprofit organizations and their grant allocations. Using SQL for data exploration and Plotly for interactive visualizations, the project uncovers funding patterns, organizational effectiveness, and underlying structures that influence impact scores.
@@ -38,7 +36,8 @@ Dataset (synthetic nonprofit orgs and grants data) available on [Kaggle](https:/
 
 
 ## Repository Structure
-- notebooks/ — exploration and visualization  
-- data/ — raw and cleaned data  
-- reports/ — final insight report  
+- notebooks/ : data exploration
+- data/ : csv files 
+- reports/ : final insight report
+- visualizations/ : charts pertaining to the data
 - README.md — project overview  
